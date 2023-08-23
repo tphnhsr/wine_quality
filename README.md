@@ -28,10 +28,3 @@ We discovered that some variables had a bigger impact on the type of wine (like 
 
 Wine quality can be divided into 7 groups (from 3 to 9 included). 
 In the final predictions, the only differences we had compared to the real quality was about 1 group (for example, we predict a wine to be a 5, but in reality it was a 6). We used Random Forest.
-
-
-
-> [amitmerchant.com](https://www.amitmerchant.com) &nbsp;&middot;&nbsp;
-> GitHub [@amitmerchant1990](https://github.com/amitmerchant1990) &nbsp;&middot;&nbsp;
-> Twitter [@amit_merchant](https://twitter.com/amit_merchant)
-
